@@ -300,7 +300,6 @@
         "buffer-equal": "^1.0.0"
       }
     },
-      "version": "1.2.0",
     "archy": {
       "version": "1.0.0",
       "resolved": "https://registry.npmjs.org/archy/-/archy-1.0.0.tgz",
